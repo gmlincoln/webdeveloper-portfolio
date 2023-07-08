@@ -115,3 +115,13 @@ main {
   color: #474747;
   font-weight: 900;
 }
+
+/* What I Do Section Style */
+.what-i-do {
+}
+#what-i-do-description {
+  padding: 30px 150px;
+}
+.skill-content {
+  display: flex;
+}
