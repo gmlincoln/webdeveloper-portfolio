@@ -160,7 +160,7 @@ main {
 .resume-container {
   display: flex;
   gap: 50px;
-  margin: 130px 0 30px 0;
+  margin: 100px 0px 30px 0px;
 }
 .resume-item-title {
   color: #474747;
@@ -177,5 +177,20 @@ main {
 }
 .download-cv {
   text-align: center;
-  margin-bottom: 130px;
+  margin-bottom: 100px;
+}
+
+/* Footer related style */
+.footer {
+  background: #fff8f3;
+}
+.footer-container {
+  display: flex;
+  gap: 100px;
+  padding: 130px 200px;
+}
+.footer-description {
+}
+.footer-content {
+  width: 50%;
 }
