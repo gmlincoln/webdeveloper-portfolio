@@ -24,6 +24,7 @@ nav {
   color: #181818;
   font-size: 45px;
   font-weight: 800;
+  margin: 0px 200px;
 }
 nav > ul {
   display: flex;
@@ -38,4 +39,18 @@ nav li a {
   color: #474747;
   font-size: 20px;
   font-weight: 400;
+}
+/* Header Style */
+
+.header {
+  background: #fff8f3;
+}
+.banner {
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+}
+.banner .profile-pic {
+  height: 550px;
+  width: 500px;
 }
